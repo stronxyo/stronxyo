@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @stronxyo
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on several proyects to broaden my knowledge
+- 👋 Hi, I’m Pablo
+- 👀 An Unreal Engine Game Development
+- 🌱 My scope is Blueprints and some C + +. 
+- 💞️ Looking to collaborate on several proyects to broaden my knowledge
 - 📫 How to reach at stronxyo@gmail.com
 
 <!---
